@@ -1,0 +1,22 @@
+﻿  ERenderer.cpp
+C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\GraphicsProg_1\DualRasterizer\DualRasterizer_Gurung_Hemant\SOURCE\source\ERenderer.cpp(202,41): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\GraphicsProg_1\DualRasterizer\DualRasterizer_Gurung_Hemant\SOURCE\source\ERenderer.cpp(202,32): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\GraphicsProg_1\DualRasterizer\DualRasterizer_Gurung_Hemant\SOURCE\source\ERenderer.cpp(464,42): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+dx11effects_d.lib(d3dxGlobal.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'dx11effects_d.lib(d3dxGlobal.obj)' or at 'C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\GraphicsProg_1\DualRasterizer\DualRasterizer_Gurung_Hemant\SOURCE\bin\Debug\Effects11d.pdb'; linking object as if no debug info
+dx11effects_d.lib(EffectAPI.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'dx11effects_d.lib(EffectAPI.obj)' or at 'C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\GraphicsProg_1\DualRasterizer\DualRasterizer_Gurung_Hemant\SOURCE\bin\Debug\Effects11d.pdb'; linking object as if no debug info
+dx11effects_d.lib(EffectLoad.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'dx11effects_d.lib(EffectLoad.obj)' or at 'C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\GraphicsProg_1\DualRasterizer\DualRasterizer_Gurung_Hemant\SOURCE\bin\Debug\Effects11d.pdb'; linking object as if no debug info
+dx11effects_d.lib(EffectNonRuntime.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'dx11effects_d.lib(EffectNonRuntime.obj)' or at 'C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\GraphicsProg_1\DualRasterizer\DualRasterizer_Gurung_Hemant\SOURCE\bin\Debug\Effects11d.pdb'; linking object as if no debug info
+dx11effects_d.lib(EffectReflection.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'dx11effects_d.lib(EffectReflection.obj)' or at 'C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\GraphicsProg_1\DualRasterizer\DualRasterizer_Gurung_Hemant\SOURCE\bin\Debug\Effects11d.pdb'; linking object as if no debug info
+dx11effects_d.lib(EffectRuntime.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'dx11effects_d.lib(EffectRuntime.obj)' or at 'C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\GraphicsProg_1\DualRasterizer\DualRasterizer_Gurung_Hemant\SOURCE\bin\Debug\Effects11d.pdb'; linking object as if no debug info
+  directx.vcxproj -> C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\GraphicsProg_1\DualRasterizer\DualRasterizer_Gurung_Hemant\SOURCE\bin\Debug\directx.exe
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
