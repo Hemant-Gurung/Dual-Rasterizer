@@ -13,4 +13,9 @@ corresponding color of the object.
 
 `for (each pixel in image) {`  
       `for (each triangle in scene) { `
+      
+      ![DualRastizer](https://user-images.githubusercontent.com/84324141/199488789-efc317de-db84-436b-9144-778ea16a20da.gif)
+
  
+
+picture Source :https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation
